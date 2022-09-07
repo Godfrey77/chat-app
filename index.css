@@ -1,0 +1,232 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 238, 238);
+    text-align: center;
+}
+.container {
+    background-color: rgb(255, 255, 255);
+    height: 435px;
+    width:  230px;
+    position: absolute;
+    top: 40px;
+    left: calc(24% - 69px);
+  border-radius: 10%;
+    text-align: center;
+    margin-top: 20px;
+    text-size-adjust: 10%;
+}
+.container2 {
+    font-size:small;
+    background-color: rgb(235, 235, 235);
+    height: 405px;
+    width:  210px;
+    position: absolute;
+    top: 55px;
+    left: calc(25% - 69px);
+  border-radius: 10%;
+    text-align: center;
+    margin-top: 20px;
+    text-size-adjust: 10%;
+}
+.container4 {
+    font-size:small;
+    display: flex;
+justify-content: space-around;
+justify-content: bottom;
+
+
+    background-color: blueviolet;
+    height: 60px;
+    width:  210px;
+    position: absolute;
+    top: 53px;
+    text-align: bottom;
+    left: calc(25% - 69px);
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+   
+    margin-top: 20px;
+    text-size-adjust: 10%;
+}
+.container5 {
+    font-size:small;
+    
+
+
+    background-color: rgb(250, 250, 250);
+    height: 35px;
+    width:  180px;
+    position: absolute;
+    top: 138px;
+    text-align: bottom;
+    left: calc(25% - 69px);
+border-radius: 10%;
+  }
+  .container6 {
+    font-size:small;
+    
+
+
+    background-color: rgb(250, 250, 250);
+    height: 35px;
+    width:  180px;
+    position: absolute;
+    top: 179px;
+    text-align: bottom;
+    left: calc(25% - 69px);
+border-radius: 10%;
+  }
+  .container7 {
+    font-size:small;
+    
+
+
+    background-color: rgb(250, 250, 250);
+    height: 40px;
+    width:  140px;
+    position: absolute;
+    top: 220px;
+    text-align: bottom;
+    left: calc(31% - 69px);
+border-radius: 10%;
+  }
+  .container8 {
+    font-size:small;
+    
+
+
+    background-color: rgb(250, 250, 250);
+    height: 35px;
+    width:  140px;
+    position: absolute;
+    top: 265px;
+    text-align: bottom;
+    left: calc(31% - 69px);
+border-radius: 10%;
+  }
+  .container9 {
+    font-size:small;
+    
+
+
+    background-color: rgb(250, 250, 250);
+    height: 18px;
+    width:  140px;
+    position: absolute;
+    top: 302px;
+    text-align: bottom;
+    left: calc(31% - 69px);
+border-radius: 10%;
+  }
+  .container10 {
+    font-size:small;
+    
+
+
+    background-color: rgb(250, 250, 250);
+    height: 44px;
+    width:  180px;
+    position: absolute;
+    top: 322px;
+    text-align: bottom;
+    left: calc(25% - 69px);
+border-radius: 10%;
+  }
+  .container11 {
+    font-size:small;
+    
+
+
+    background-color: blueviolet;
+    height: 20px;
+    width:  180px;
+    position: absolute;
+    top: 375px;
+    text-align: bottom;
+    left: calc(25% - 69px);
+border-radius: 10%;
+  }
+  .container12 {
+    font-size:small;
+    
+
+
+    background-color: blueviolet;
+    height: 20px;
+    width:  180px;
+    position: absolute;
+    top: 400px;
+    text-align: bottom;
+    left: calc(25% - 69px);
+border-radius: 10%;
+  }
+  .container13 {
+    font-size:medium;
+    
+
+
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    height: 40px;
+    width:  180px;
+    position: absolute;
+    top: 430px;
+    text-align: bottom;
+    left: calc(26% - 69px);
+border-radius: 10%;
+  }
+.container3 {
+    background-color: rgb(255, 255, 255);
+    height: 24px;
+    width:  100px;
+    position: absolute;
+    top: 46px;
+    left: calc(30% - 69px);
+  border-bottom-left-radius: 45%;
+  border-bottom-right-radius: 45%;
+    text-align: center;
+    margin-top: 20px;
+    text-size-adjust: 10%;
+}
+
+.left {
+    
+    position: absolute;
+    background-color: blueviolet;
+    
+    height: 450px;
+    width:  285px;
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 70%;
+}
+.right {
+    
+    position: absolute;
+    top: 65px;
+    left: calc(50% - 69px);
+    height: 400px;
+    width:  320px;
+    border-radius: 10%;
+    text-align: center;
+}
+.right2 {
+    background-color: rgb(210, 210, 210);
+    position: absolute;
+    top: 65px;
+    left: calc(85% - 69px);
+    height: 400px;
+    width:  320px;
+    border-top-right-radius: 80%;
+    border-top-left-radius: 80%;
+    text-align: center;
+
+}
+img {
+
+width: 30px;
+height: 30px;
+border-radius: 50%;
+margin-top: 17px;
+margin-left: 5px;;
+}
+ 
